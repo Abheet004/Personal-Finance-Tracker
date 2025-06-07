@@ -57,13 +57,19 @@ This project was developed as a part of a personal learning initiative to:
 > (Place your screenshots in `/screenshots` folder and update the links below)
 
 **1. Dashboard Overview**
-![Dashboard](screenshots/dashboard.png)
+![LandingPage](Screenshots/LandingPage.png)
 
-**2. Transaction Listing with Filters**
-![Filters](screenshots/filters.png)
+**2. Dashboard Overview**
+![Dashboard](Screenshots/Dashboard.png)
 
 **3. Add Transaction**
-![Add Transaction](screenshots/add-transaction.png)
+![Add Transaction](Screenshots/AddTransaction.png)
+
+**4. PDF Export**
+![PDF export](Screenshots/PdfExport.png)
+
+**5. ExcelSheet Export**
+![Excel export](Screenshots/ExcelExport.png)
 
 ---
 
