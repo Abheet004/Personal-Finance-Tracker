@@ -54,7 +54,7 @@ This project was developed as a part of a personal learning initiative to:
 
 ## 📷 Screenshots
 
-> (Place your screenshots in `/screenshots` folder and update the links below)
+
 
 **1. Dashboard Overview**
 ![LandingPage](Screenshots/LandingPage.png)
